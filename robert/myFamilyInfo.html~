@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+  <head>
+    <title>Matrix HTML5 Template</title>
+    <meta name="description" content="" />
+    <meta name="author" content="templatemo">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 
+    Matrix Template
+    http://www.templatemo.com/preview/templatemo_405_matrix
+    -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+   	<link type="text/css" rel="stylesheet" href="css/easy-responsive-tabs.css" />
+    <link href="css/templatemo_style.css" rel="stylesheet"> 
+        
+  
+  </head>
+  <body>
+    	<!-- logo start -->
+    <div class="logocontainer">
+    	<div class="row">
+        	<h1><a href="#">Robert Bejoc Melilo</a></h1>
+            <div class="clear"></div>
+            <div class="templatemo_smalltitle">Associate in Computer Technology, 2nd Year</div>
+       </div>
+    </div>
+    <!-- logo end -->    
+   <div id="menu-container" class="main_menu">
+   <!-- homepage start -->
+
+    <div class="content homepage" id="menu-1">
+  	<div class="container">
+
+	    <!--services start -->
+   <div class="content services" id="menu-2" style="display:block;">
+		<div class="container">
+        	<div class="row templatemo_bordergapborder">
+            	<div class="col-md-3 col-sm-12 templatemo_leftgap">
+                	<div class="templatemo_mainimg templatemo_botgap"><img src="images/templatemo_service1.jpg" alt="service image"></div>
+                    <div class="templatemo_mainservice templatemo_botgap">
+                	<div class="templatemo_linkservice"><a class="show-1 templatemo_homeservice" href="index.html">Go Back</a></div>
+                </div>
+                </div>
+                
+                <div class="templatemo_col37 col-sm-12 templatemo_leftgap">
+                	<div class="templatemo_graybg">
+                    <div class="templatemo_frame">
+                	<h2>My Family</h2>
+                    <div class="clear"></div>
+                    <p>Our family is a small and happy family. I have two brothers (Reuben and Diego Jr.) and four sisters(Agapita, Daisy, Blessie and Ligalia). I have one nephew and one niece. Three of my sisters has their own family now.<!--a rel="nofollow" href="http://unsplash.com">Unsplash</a--> <br><br>
+					I have so many cousins and keens on my parents' both sides. The "Bejoc" clan alone has populated one barangay of keens in Cebu, and many other have scattered in different places in Visayas and Mindanao. My father's side is a native of Mindanao, tracing back to my grandparents; they were both a mixed blood of Muslim and Erumanen ne Menuvu (one of the Indigenous Peoples' group in Mindanao).  <br><br>
+					</p>
+                    </div>
+               	  </div>
+              </div>
+                <div class="templatemo_col37 col-sm-12 templatemo_leftgap templatemo_topgap">
+                	<div class="templatemo_mainimg templatemo_botgap"><img src="images/templatemo_service2.jpg" alt="service image"></div>
+                </div>
+            </div>
+        </div>
+     </div>
+	    
+    <!-- services end -->
+          	
+    </div>
+   </div>
+    </div>
+
+  </body>
+</html>
